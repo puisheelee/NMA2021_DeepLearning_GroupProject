@@ -1,6 +1,6 @@
 # NMA2021_DeepLearning_GroupProject
 
-Part of Neuromatch Academy 2021 Deep Learning summer school group project.
+Part of Neuromatch Academy 2021 Deep Learning summer school group project - A network of choice neurons. 
 
 Containing only my part of the work.
 
